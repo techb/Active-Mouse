@@ -7,6 +7,7 @@ Simple script to move the mouse every 10 minutes
 
 ## Install
 `$ git clone git@github.com:techb/Active-Mouse.git`
+`$ pipenv install`
 
 ## Build Executable
 `$ pyinstaller -F active_mouse.py`
