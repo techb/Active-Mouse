@@ -11,3 +11,6 @@ Simple script to move the mouse every 10 minutes
 
 ## Build Executable
 `$ pyinstaller -F active_mouse.py`
+
+## Binaries
+I've included a Windows binary found in `dist/active_mouse.exe`. It uses screen locations `100x100` and `200x200`. Mouse moves every 10 minutes. To change these settings, edit `active_mouse.py` and build a new binary using Pyinstaller.

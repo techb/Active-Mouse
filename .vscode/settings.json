@@ -1,3 +1,21 @@
 {
-    "python.pythonPath": "C:\\Users\\KB\\.virtualenvs\\active_mouse--WGH4xkc\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\KB\\.virtualenvs\\active_mouse--WGH4xkc\\Scripts\\python.exe",
+    "cSpell.ignoreWords": [
+        "bootloader",
+        "ctypes",
+        "datas",
+        "hiddenimports",
+        "hookspath",
+        "ignore",
+        "noarchive",
+        "pathex",
+        "pipenv",
+        "pyinstaller",
+        "runtime",
+        "signals",
+        "techb",
+        "tmpdir",
+        "windll",
+        "zipfiles"
+    ]
 }
